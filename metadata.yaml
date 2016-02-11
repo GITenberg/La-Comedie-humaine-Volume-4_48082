@@ -1,0 +1,28 @@
+_repo: La-Comedie-humaine-Volume-4_48082
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - De Balzac, Honoré
+    - Saint-Aubin, Horace de
+    - Balzac, H. de (Honoré de)
+    - Balzac, Honore de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2015-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48082'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: La Comédie humaine, Volume 4
+url: http://www.gutenberg.org/ebooks/48082
